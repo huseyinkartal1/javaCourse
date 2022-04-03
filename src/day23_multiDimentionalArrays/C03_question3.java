@@ -1,8 +1,6 @@
 package day23_multiDimentionalArrays;
 
-import java.util.Arrays;
-
-public class C06_arrays {
+public class C03_question3 {
     public static void main(String[] args) {
 
         int arr1[][]={{1,2},{3,4,5},{6}};
